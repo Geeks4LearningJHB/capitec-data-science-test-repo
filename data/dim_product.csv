@@ -1,0 +1,5 @@
+product_sk,product_name,product_category,launch_date,monthly_fee,minimum_balance
+1,Savings Account,Deposit,2018-01-15,0,100
+2,Checking Account,Deposit,2015-03-22,5,500
+3,Investment Account,Investment,2020-07-10,10,1000
+4,Business Account,Business,2019-11-05,15,2000
